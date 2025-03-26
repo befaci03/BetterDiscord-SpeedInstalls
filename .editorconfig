@@ -1,0 +1,5 @@
+[json]
+tab_width = 2
+
+[sh,cmd]
+tab_width = 4

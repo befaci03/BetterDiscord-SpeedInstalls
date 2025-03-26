@@ -1,9 +1,7 @@
-{
-  "windows": {
-    "v": ["a","1.0.0"],
-    "f": "a.v100.cmd"
-  },
-  "linux": {
-    "v": ["a","1.0.0"],
-    "f": { "bash":"ba.a.v100.sh","zsh":"z.a.v100.sh" }
+{"windows":{
+  "v": ["a","1.0.0"],
+  "f": "a.v100.cmd"
+},"linux":{
+  "v": ["a","1.0.0"],
+  "f": { "bash":"ba.a.v100.sh","zsh":"z.a.v100.sh","ksh":"k.a.v100.sh" }
 }}
